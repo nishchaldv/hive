@@ -62,7 +62,7 @@
     <module>kafka-handler</module>
   </modules>
   <properties>
-    <standalone-metastore.version>4.0.0-beta-1-SNAPSHOT</standalone-metastore.version>
+    <standalone-metastore.version>4.0.0</standalone-metastore.version>
     <hive.version.shortname>4.0.0</hive.version.shortname>
     <!-- Build Properties -->
     <maven.compiler.source>1.8</maven.compiler.source>
@@ -157,7 +157,7 @@
     <javax-servlet.version>3.1.0</javax-servlet.version>
     <javolution.version>5.5.1</javolution.version>
     <jettison.version>1.5.4</jettison.version>
-    <jetty.version>9.4.40.v20210413</jetty.version>
+    <jetty.version>9.4.57.v20241219</jetty.version>
     <jersey.version>1.19</jersey.version>
     <jline.version>2.14.6</jline.version>
     <jms.version>2.0.2</jms.version>
