@@ -101,7 +101,7 @@
     <maven.surefire.plugin.version>3.0.0-M4</maven.surefire.plugin.version>
     <maven.cyclonedx.plugin.version>2.7.6</maven.cyclonedx.plugin.version>
     <!-- Library Dependency Versions -->
-    <accumulo.version>1.10.1</accumulo.version>
+    <accumulo.version>2.0.0</accumulo.version>
     <ant.version>1.10.13</ant.version>
     <antlr.version>3.5.2</antlr.version>
     <!-- Make sure to sync it with standalone-metastore/pom.xml -->
@@ -198,7 +198,7 @@
     <slf4j.version>1.7.30</slf4j.version>
     <ST4.version>4.0.4</ST4.version>
     <storage-api.version>4.0.0-beta-1-SNAPSHOT</storage-api.version>
-    <tez.version>0.10.2</tez.version>
+    <tez.version>0.10.5</tez.version>
     <super-csv.version>2.2.0</super-csv.version>
     <tempus-fugit.version>1.1</tempus-fugit.version>
     <snappy.version>1.1.10.1</snappy.version>
